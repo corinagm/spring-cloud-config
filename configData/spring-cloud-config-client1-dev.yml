@@ -1,6 +1,3 @@
 server:
   port: 3333
   
-app:
-  service:
-    name: Spring Cloud Client Example With a Special Profile
